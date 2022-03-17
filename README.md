@@ -1,4 +1,4 @@
-# Tesi-Tecniche-di-Machine-Learning-per-la-Selezione-della-Terapia-nei-casi-di-Malaria-Severa
+# Tesi Triennale Matematica
 Tesi-Tecniche di Machine Learning per la Selezione della Terapia nei casi di Malaria Severa
 
 In questa tesi vengono presentate alcune tra le più famose tecniche di Machine Learning e la loro applicazione per la selezione della terapia nei casi di malaria severa. Il dataset è stato fornito dell'Istituto Lazzaro Spallanzani di Roma, e consiste in una lista dei principali parametri clinici di 259 pazienti, dei quali 119 con malaria severa.
